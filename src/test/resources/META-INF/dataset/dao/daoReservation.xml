@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+
+  <users
+    id="1"
+    first_name="Morty"
+    last_name="Smith"
+    username="morty.smith"
+    email="morty.smith@hotmail.ca"
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users 
+    id="2"
+    first_name="Rick"
+    last_name="Sanchez"
+    username="rick.sanchez"
+    email="rick.sanchez@hotmail.ca"
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users
+    id="3"
+    first_name="Summer"
+    last_name="Smith"
+    username="summer.smith"
+    email="summer.smith@hotmail.ca"
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users
+    id="4"
+    first_name="admin"
+    last_name="user"
+    username="admin"
+    email="admin@hotmail.ca"
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+  <cars
+    id="1"
+    model="Space Cruiser"
+    license_plate="XXX-XXX"
+    mileage="9000" />
+    
+  <cars
+    id="2"
+    model="S.S. Independence"
+    license_plate="XXX-XXX"
+    mileage="700000" />
+   
+  <cars
+    id="3"
+    model="Morty Carrier"
+    license_plate="XXX-XXX"
+    mileage="900000" />
+    
+   <cars
+    id="4"
+    model="Vindicators' Ship"
+    license_plate="XXX-XXX"
+    mileage="800" />
+  
+  <reservations
+    id="1"
+    start_date="2018-05-27 14:07:51.178"
+    end_date="2018-06-27 14:07:51.178"
+    users_id="1"
+    cars_id="1" />
+    
+  <reservations
+    id="2"
+    start_date="2018-07-27 14:07:51.178"
+    end_date="2018-08-27 14:07:51.178"
+    users_id="2"
+    cars_id="2" />
+
+    
+  <reservations
+    id="3"
+    start_date="2018-09-27 14:07:51.178"
+    end_date="2018-10-27 14:07:51.178"
+    users_id="3"
+    cars_id="3" />
+    
+   <reservations
+	   id="4"
+	   start_date="2018-09-27 14:07:51.178"
+	   end_date="2018-10-27 14:07:51.178"
+	   users_id="3"
+	   cars_id="2" />
+    
+    
+</dataset>

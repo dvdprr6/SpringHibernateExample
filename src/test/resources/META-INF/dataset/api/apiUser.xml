@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+  <users
+    id="1"
+    first_name="Morty"
+    last_name="Smith"
+    username="morty.smith"
+    email="morty.smith@hotmail.ca"
+    address="abc 123"
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users 
+    id="2"
+    first_name="Rick"
+    last_name="Sanchez"
+    username="rick.sanchez"
+    email="rick.sanchez@hotmail.ca"
+    address="abc 123" 
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users
+    id="3"
+    first_name="Summer"
+    last_name="Smith"
+    username="summer.smith"
+    email="summer.smith@hotmail.ca"
+    address="abc 123" 
+    password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+    modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+    
+   <users
+   	id="4"
+   	first_name="admin"
+   	last_name="user"
+   	username="admin"
+   	email="admin@hotmail.ca"
+   	password="Ayvm3kn2Z9QxKIo1ddDkdA=="
+   	modified="2018-09-27 14:07:51.178"
+    deleted="0"/>
+      
+</dataset>

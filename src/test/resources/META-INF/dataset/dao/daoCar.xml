@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+  <cars
+    id="1"
+    model="Space Cruiser"
+    license_plate="XXX-XXX"
+    mileage="9000" />
+    
+  <cars
+    id="2"
+    model="S.S. Independence"
+    license_plate="XXX-XXX"
+    mileage="700000" />
+   
+  <cars
+    id="3"
+    model="Morty Carrier"
+    license_plate="XXX-XXX"
+    mileage="900000" />
+
+</dataset>
